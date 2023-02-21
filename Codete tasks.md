@@ -1,18 +1,18 @@
 
 
-
+##Table of contents
 
 [1. Creating and sharing a YouTube link pointing to a selected moment in the video.](#chapter1)
 
 
-# 2.	Finding YouTube videos added in the last 7 days and shorter than 4 minutes.	7
+[2.	Finding YouTube videos added in the last 7 days and shorter than 4 minutes.](#chapter2)
 
 ---
 
 
 
-
-## 1. Creating and sharing a YouTube link pointing to a selected moment in the video.
+### <a name="chapter1"></a>1. Creating and sharing a YouTube link pointing to a selected moment in the video.
+## 
 
 
 
@@ -34,7 +34,7 @@ paste a YouTube link of your choice from the clipboard.
  
 The video window will open.
 
-## <a name="chapter1"></a>Cos tam
+
 
 **3)**	There are three ways to point to a particular moment of a video:
 
@@ -92,7 +92,8 @@ Check the **Start at** checkbox, then click  **Copy**.
  
  ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete11.png?raw=true)
 
-## 2.	Finding YouTube videos added in the last 7 days and shorter than 4 minutes.
+
+### <a name="chapter2"></a>2.	Finding YouTube videos added in the last 7 days and shorter than 4 minutes.
 
 It is very simple to filter YouTube videos according to various criteria.
 
