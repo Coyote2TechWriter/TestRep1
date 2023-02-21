@@ -1,6 +1,6 @@
 
 
-##Table of contents
+## Table of contents
 
 [1. Creating and sharing a YouTube link pointing to a selected moment in the video.](#chapter1)
 
@@ -39,8 +39,6 @@ The video window will open.
 **3)**	There are three ways to point to a particular moment of a video:
 
 &nbsp;&nbsp;&nbsp;&nbsp; **a)** Play the video and pause it at a moment of your choice by clicking the Pause button or pressing the Space bar.
-
-#chapter1
 
 ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete3.png?raw=true)
 
