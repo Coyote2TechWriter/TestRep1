@@ -1,4 +1,5 @@
 
+<a name="beginning"></a> 
 
 ## Table of contents
 
@@ -89,6 +90,11 @@ Check the **Start at** checkbox, then click  **Copy**.
  ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete11.png?raw=true)
 
 
+### [Back to the top of the page](#beginning) ###
+
+
+---
+
 ### <a name="chapter2"></a>2.	Finding YouTube videos added in the last 7 days and shorter than 4 minutes
 
 It is very simple to filter YouTube videos according to various criteria.
@@ -118,3 +124,5 @@ Click the **Filters** button each time you want to check an option.
 ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete23.png?raw=true)
 
 The results will now include only videos not older than 7 days and not longer than 4 minutes.
+
+### [Back to the top of the page](#beginning) ###
