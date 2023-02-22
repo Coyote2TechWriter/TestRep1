@@ -39,7 +39,7 @@ The video window will open.
 
 **3)**	There are three ways to point to a particular moment of a video:
 
-&nbsp;&nbsp;&nbsp;&nbsp; **a)** Play the video and pause it at a moment of your choice by clicking the Pause button or pressing the Space bar.
+&nbsp;&nbsp;&nbsp;&nbsp; **a)** Play the video and pause it at a moment of your choice by clicking the **Pause** button or pressing the **Space** bar.
 
 ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete3.png?raw=true)
 
@@ -53,7 +53,7 @@ The video window will open.
 
 Slide through frames and double click the frame that you wish to point to in the link.
  
-**4)**	After choosing a particular moment on timeline, click Share right below the video.
+**4)**	After choosing a particular moment on timeline, click **Share** right below the video.
 
 ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete2.png?raw=true)
  
@@ -85,7 +85,7 @@ Note that the timestamp will be added to the link.
 
 The *Embed video* window will open.
 
-Check the **Start at** checkbox, then click  **Copy**.
+Check the **Start at** checkbox, then click  **Copy** to copy the HTML to the clipboard.
  
  ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete11.png?raw=true)
 
@@ -115,7 +115,7 @@ The *search results* window will open.
  
 **4)**	The *Filters* section will expand.
 
-**5)**	Check the This week and Under 4 minutes options.
+**5)**	Check the **This week** and **Under 4 minutes** options.
 
 **Note** that the section will roll up each time any option is checked. 
 
