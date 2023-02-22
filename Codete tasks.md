@@ -26,8 +26,7 @@ It is possible to create a YouTube link containing a video starting at a specifi
 
 **To share a YouTube link pointing to a selected moment in the video:**
 
-**1)**	Go to https://youtube.com and search for a video, or
-paste a YouTube link of your choice from the clipboard.
+**1)**	Go to https://youtube.com and search for a video with the **Search** field, or paste a YouTube link of your choice from the clipboard.
 
 **2)**	Open the selected video.
 
