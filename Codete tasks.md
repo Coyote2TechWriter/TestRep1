@@ -17,7 +17,7 @@
 
 
 
-It is possible to share a YouTube link containing a video starting from a specific moment through
+It is possible to create a YouTube link containing a video starting at a specific moment, and then share it by
 - copying the link to the clipboard
 - sharing the video through a selected application
 - sharing the video through the HTML code
