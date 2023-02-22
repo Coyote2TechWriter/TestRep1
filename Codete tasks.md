@@ -11,7 +11,7 @@
 
 
 
-### <a name="chapter1"></a>1. Creating and sharing a YouTube link pointing to a selected moment in the video.
+### <a name="chapter1"></a>1. Creating and sharing a YouTube link pointing to a selected moment in the video
 ## 
 
 
@@ -25,7 +25,7 @@ It is possible to share a YouTube link containing a video starting from a specif
 
 **To share a YouTube link pointing to a selected moment in the video:**
 
-**1)**	In your browser, type https://youtube.com and search for a video, or
+**1)**	Go to https://youtube.com and search for a video, or
 paste a YouTube link of your choice from the clipboard.
 
 **2)**	Open the selected video.
@@ -42,17 +42,15 @@ The video window will open.
 
 ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete3.png?raw=true)
 
-&nbsp;&nbsp;&nbsp;&nbsp; **b)**	 Click at any place on the timeline. The link will point to that exact point.
+&nbsp;&nbsp;&nbsp;&nbsp; **b)**	 Click any place on the timeline. The link will point to that exact point.
  
 ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete5.png?raw=true)
 
-&nbsp;&nbsp;&nbsp;&nbsp; **c)**	Click any place on the timeline, hold it and pull it up.
+&nbsp;&nbsp;&nbsp;&nbsp; **c)**	Click any place on the timeline, hold and pull up to see all video frames.
 
 ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete4.png?raw=true)
 
-You can now view all the video frames.
-
-Double click the frame that you wish to point to in the link.
+Slide through frames and double click the frame that you wish to point to in the link.
  
 **4)**	After choosing a particular moment on timeline, click Share right below the video.
 
@@ -60,7 +58,7 @@ Double click the frame that you wish to point to in the link.
  
 The *Share* window will open.
 
-**5)**	Check the **Start at** checkbox.
+**5)**	To create the link, check the **Start at** checkbox.
 
 ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete6.png?raw=true)
 
@@ -68,30 +66,30 @@ Note that the timestamp will be added to the link.
 
 ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete7.png?raw=true)
  
-**6)**	There are three ways to create and share a link:
+**6)**	There are three ways to share the link:
 
 &nbsp;&nbsp;&nbsp;&nbsp; **a)**	Click the **Copy** button to copy the link to the clipboard.
 
 ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete8.png?raw=true)
  
-&nbsp;&nbsp;&nbsp;&nbsp; **b)**	Choose the application, in which you would like to share this video.
+&nbsp;&nbsp;&nbsp;&nbsp; **b)**	Choose the application in which you would like to share this video.
  
 ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete9.png?raw=true)
 
-&nbsp;&nbsp;&nbsp;&nbsp; **c)**	Click Embed to share the video as a part of HTML code.
+&nbsp;&nbsp;&nbsp;&nbsp; **c)**	Click **Embed** to share the video as HTML.
 
 ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete10.png?raw=true)
 
 
 
-The Embed video window will open.
+The *Embed video* window will open.
 
 Check the **Start at** checkbox, then click  **Copy**.
  
  ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete11.png?raw=true)
 
 
-### <a name="chapter2"></a>2.	Finding YouTube videos added in the last 7 days and shorter than 4 minutes.
+### <a name="chapter2"></a>2.	Finding YouTube videos added in the last 7 days and shorter than 4 minutes
 
 It is very simple to filter YouTube videos according to various criteria.
 
