@@ -115,7 +115,7 @@ The *search results* window will open.
  
 **4)**	The *Filters* section will expand.
 
-**5)**	Check the **This week** and **Under 4 minutes** options.
+**5)**	Check **This week** and **Under 4 minutes**.
 
 **Note** that the section will roll up each time any option is checked. 
 
