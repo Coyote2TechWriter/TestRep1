@@ -90,7 +90,7 @@ Check the **Start at** checkbox, then click  **Copy**.
  ![](https://github.com/Coyote2TechWriter/TestRep1/blob/Branch2/codete11.png?raw=true)
 
 
-### [Back to the top of the page](#beginning) ###
+#### [Back to the top of the page](#beginning) ####
 
 
 ---
@@ -125,4 +125,4 @@ Click the **Filters** button each time you want to check an option.
 
 The results will now include only videos not older than 7 days and not longer than 4 minutes.
 
-### [Back to the top of the page](#beginning) ###
+#### [Back to the top of the page](#beginning) ####
